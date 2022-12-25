@@ -8,6 +8,8 @@ public class VectorDemo {
 		Vector<Integer> v= new Vector<Integer>();
 		v.add(55);
 		v.add(77);
-		System.out.println(v);
+		for(Integer i:v) {
+			System.out.println(i);
+		}
 	}
 }
