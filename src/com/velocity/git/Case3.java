@@ -1,4 +1,7 @@
 public class Case3{
-// added new code
+public static void main (String [] args){
+
+System.out.println();
+}
 
 }
