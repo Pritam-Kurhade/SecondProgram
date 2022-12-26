@@ -9,6 +9,6 @@ public class HashMapDemo {
 		map.put("Kshitija", "111");
 		map.put("Pritam", "122");
 		map.put("Dakshata", "211");
-		map.forEach((k,v)->System.out.println(k+" "+v));
+		System.out.println(map);
 	}
 }
