@@ -10,6 +10,8 @@ public class HashSetDemo {
 		set.add(2);
 		set.add(5);
 		set.add(55);
-		System.out.println(set);
+		for(Integer i: set){
+		System.out.println(i);
+		}
 	}
 }
