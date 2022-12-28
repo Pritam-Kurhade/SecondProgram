@@ -1,4 +1,4 @@
-package com.velocity;
+package com.arrylistdemo;
 
 import java.util.ArrayList;
 
